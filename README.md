@@ -7,10 +7,10 @@ This a learning demo for resilience4j  + spring-boot-3
 
 Problem
 
-   diagram fallback
+   [WIP] Diagram fallback
    
-   * explain resilience configuration
-   * explain grafana dashboard
+   * [WIP]  Resilience configuration
+   * [WIP ] grafana dashboard
 
 what? we need to add a mechanism to detect the problem in microservices that receive errors for the other microservices. 
 
